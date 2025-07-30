@@ -55,23 +55,3 @@ docker-compose up -d
    - Frontend (React) - http://localhost:1234
 
 5. In case of a remote server, you will need to install Docker and Docker Compose on the remote server, you need to pull custom images from Docker Hub, and you need to run the containers using the `docker-compose.yml` file. You can use the `remote-server.example.yml` file as a reference.
-
-## Screenshots
-
-![Screenshot 1](screenshots/workspace.PNG)
-![Screenshot 2](screenshots/dashboard.PNG)
-
-## Video
-
-[<img src="https://img.youtube.com/vi/C80H6FsO_ek/hqdefault.jpg" 
-/>](https://youtu.be/C80H6FsO_ek)
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
-
-## Author
-
-This Server Health Monitoring Application was created by [@sbk2k1](https://github.com/sbk2k1).
-
-If you have any questions or feedback, feel free to reach out!
