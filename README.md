@@ -42,7 +42,7 @@ git clone https://github.com/your-username/server-health-monitoring.git
 cd server-health-monitoring
 ```
 
-2. Create a `.env` file in the root directory and add the environment variables as shown in the `.env.example` file.
+2. Create a `.env` file in the root directory and add the environment variables as shown in the `.env.example` file
 
 3. Build the Docker images and start the containers:
 
